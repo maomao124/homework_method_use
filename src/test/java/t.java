@@ -28,6 +28,7 @@ public class t
     }
     public static void main(String[] args)
     {
+        test.Print99();
         Print99();
     }
 }
